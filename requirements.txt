@@ -1,0 +1,6 @@
+opencv-python
+fer
+moviepy
+tensorflow
+numpy
+pyserial
