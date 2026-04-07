@@ -7,9 +7,11 @@ git clone https://github.com/Pratham-Vishwakarma/CI_Hardware_Project.git
 python -3.11 -m venv .venv
 ```
 ```bash
+.venv/scripts/activate
+```
+```bash
 pip install -r requirements.txt
 ```
-
 run study_assistant.py using:
 ```bash
 python study_assistant.py
